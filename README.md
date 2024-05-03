@@ -5,40 +5,43 @@ This is a simple Todo application implemented in Objective-C. It allows users to
 ## Features
 
 - **Todo List**: Add new tasks to your Todo list.
+<div style="display:flex; justify-content:space-between;">
+    <img src="https://i.imgur.com/F3teRRi.jpeg" width="30%">
+   <img src="https://i.imgur.com/aTOR9BV.jpeg" width="30%">
+    <img src="https://i.imgur.com/XBjtQyW.jpeg" width="30%">
+      <img src="https://i.imgur.com/RDMNKfH.jpeg" width="30%">
+    <img src="https://i.imgur.com/idqmRze.jpeg" width="30%">
+
+</div>
 - **In Progress**: Move tasks to the In Progress state when you start working on them.
+<div style="display:flex; justify-content:space-between;">
+    <img src="https://i.imgur.com/oxVkshF.jpeg" width="30%">
+      <img src="https://i.imgur.com/oxVkshF.jpeg" width="30%">
+
+</div>
 - **Done**: Mark tasks as Done when you complete them.
+<div style="display:flex; justify-content:space-between;">
+    <img src="https://i.imgur.com/zt2XmRY.jpeg" width="30%">
+</div>
 - **Search**: Search for specific tasks by their title or description.
+<div style="display:flex; justify-content:space-between;">
+    <img src="https://i.imgur.com/8H24erW.jpeg" width="30%">
+</div>
 - **Filter**: Filter tasks based on their state (Todo, In Progress, Done).
+<div style="display:flex; justify-content:space-between;">
+    <img src="https://i.imgur.com/WATHZEY.jpeg" width="30%">
+</div>
 - **Edit**: Edit existing tasks to update their title, description, or state.
+<div style="display:flex; justify-content:space-between;">
+    <img src="https://i.imgur.com/GmdhqIw.jpeg" width="30%">
+    <img src="https://i.imgur.com/JQoI2rp.jpeg" width="30%">
+</div>
 
-## Getting Started
-
-To run the Todo app on your local machine, follow these steps:
-
-1. Clone the repository:
-
-2. Open the Xcode project file (`TodoApp.xcodeproj`) in Xcode.
-
-3. Build and run the project on your simulator or device.
-
-4. Start managing your tasks!
-
-## Usage
-
-- **Adding a Task**: Tap on the "+" button to add a new task. Enter the task title and description, then tap "Save".
-
-- **Moving a Task**: Swipe left on a task to reveal options for moving it between Todo, In Progress, and Done states.
-
-- **Searching**: Use the search bar at the top to search for tasks by their title or description.
-
-- **Filtering**: Use the segmented control at the top to filter tasks based on their state (Todo, In Progress, Done).
-
-- **Editing**: Tap on a task to view its details. Tap on the "Edit" button to modify the task's title, description, or state.
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please [open an issue](https://github.com/your_username/todo-app/issues) or [submit a pull request](https://github.com/your_username/todo-app/pulls).
+Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please [open an issue](https://github.com/mohamedallam01/TODO-Objective-C/issues) or [submit a pull request](https://github.com/mohamedallam01/TODO-Objective-C/pulls).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the ([ITI](https://iti.gov.eg/)). Feel free to use, modify, and distribute the code for your own purposes.
